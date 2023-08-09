@@ -1,0 +1,22 @@
+﻿AuxKereskedes
+3
+Allaticuccok 7
+Tarantulla;tarantulla5251;piros;4000;fiatal;2022.05.12;beszerzési
+Pinty;pinty2526;fehér;5000;fiatal;2022.05.12;beszerzési
+Hörcsög;horcsog25;fekete;3000;fiatal;2022.01.03;beszerzési
+Hörcsög;horcsog252;fekete;4000;felnőtt;2022.01.29;beszerzési
+Pinty;pinty2528;kék;9000;felnőtt;2022.02.12;beszerzési
+Pinty;pinty2528;kék;9000;felnőtt;2022.02.12;beszerzési
+Hörcsög;horcsog252;fekete;4000;fiatal;2022.01.29;eladási
+allatvevok 2
+Pinty;pinty252652;fehér;5000;fiatal;2023.05.22;eladási
+Tarantulla;tarantulla5251;piros;4000;fiatal;2022.05.12;eladási
+allatvevok 8
+Pinty;pinty2527;fehér;5000;fiatal;2023.05.10;beszerzési
+Pinty;pinty2528;fekete;9000;felnőtt;2022.02.19;eladási
+Hörcsög;horcsog2512;barna;1000;felnőtt;2022.01.11;beszerzési
+Hörcsög;horcsog2514;ezüst;5000;fiatal;2022.01.15;beszerzési
+Tarantulla;tarantulla5251;lila;6000;felnőtt;2022.05.12;beszerzési
+Hörcsög;horcsog2514;ezüst;5000;fiatal;2022.01.17;eladási
+Pinty;pinty2527;fehér;5000;fiatal;2023.05.15;eladási
+Tarantulla;tarantulla5251;lila;600000000;felnőtt;2022.05.12;eladási

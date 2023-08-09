@@ -1,0 +1,4 @@
+﻿kereskedésNeve:szöveg
+kereskedésPartnereinekSzáma:egészSzám
+PartnerNév:szöveg tranzakciókSzáma:egészSzám
+Állatfajta:enum{Tarantulla,Pinty,Hörcsög};állatAzonosító:szöveg;állatSzíne:szöveg;Ár:valósSzám;életkor:enum{fiatal,felnőtt};dátum:szöveg;számlafajta:enum{beszerzési,eladási}
