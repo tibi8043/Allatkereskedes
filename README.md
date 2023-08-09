@@ -1,2 +1,2 @@
-#Állatkereskedés
-##Egy állatkereskedés implementációja fontosabb kivételek kezelésével, és különböző tesztesetekkel.
+# Állatkereskedés
+## Egy állatkereskedés implementációja fontosabb kivételek kezelésével, tesztekkel
